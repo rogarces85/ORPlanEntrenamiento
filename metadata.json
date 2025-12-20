@@ -1,0 +1,6 @@
+
+{
+  "name": "Osorno Runner IA - Plan Maestro",
+  "description": "Plataforma de ingeniería de entrenamiento para corredores impulsada por Gemini 3 Pro. Generación de planes basados en periodización de Joe Friel.",
+  "requestFramePermissions": []
+}
